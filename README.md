@@ -1,9 +1,9 @@
 # VideoConverterMP3 🎵
 
-![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/VideoConverterMP3)
-![GitHub stars](https://img.shields.io/github/stars/seu-usuario/VideoConverterMP3)
-![GitHub forks](https://img.shields.io/github/forks/seu-usuario/VideoConverterMP3)
-![GitHub license](https://img.shields.io/github/license/seu-usuario/VideoConverterMP3)
+![GitHub repo size](https://img.shields.io/github/repo-size/E-Mello/VideoConverterMP3)
+![GitHub stars](https://img.shields.io/github/stars/E-Mello/VideoConverterMP3)
+![GitHub forks](https://img.shields.io/github/forks/E-Mello/VideoConverterMP3)
+![GitHub license](https://img.shields.io/github/license/E-Mello/VideoConverterMP3)
 
 VideoConverterMP3 é uma ferramenta de linha de comando Python para converter vídeos do YouTube em arquivos de áudio MP3 de forma simples e eficiente. Esta ferramenta utiliza a biblioteca pytube para baixar vídeos do YouTube e a biblioteca moviepy para extrair o áudio e convertê-lo para o formato MP3.
 
@@ -24,6 +24,6 @@ VideoConverterMP3 é uma ferramenta de linha de comando Python para converter v�
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/VideoConverterMP3.git
+git clone https://github.com/E-Mello/VideoConverterMP3.git
 cd VideoConverterMP3
 ```
